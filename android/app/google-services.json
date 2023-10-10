@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856075291481",
+    "project_id": "extrack-8660f",
+    "storage_bucket": "extrack-8660f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856075291481:android:9dde6f515d0f5eca7e5a48",
+        "android_client_info": {
+          "package_name": "com.jolo.extrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDALEDrx2kQLSPCWsDs3AkHJWaSS2DpvAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
